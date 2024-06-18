@@ -1,0 +1,652 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  height: 3214px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #99cdff;
+  width: 720px;
+  height: 3214px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 720px;
+  height: 3214px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.sided {
+  color: #99cdff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 782px;
+  top: 71px;
+  width: 123px;
+  height: 40px;
+}
+.new-theme-just-for-you {
+  color: #99cdff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 121px;
+  width: 182px;
+  height: 17px;
+}
+.phasellus-sit-amet-erat-id {
+  color: #99cdff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 847px;
+  width: 238px;
+  height: 18px;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 935px;
+  width: 465px;
+  height: 100px;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span2 {
+  color: #99cdff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span3 {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span4 {
+  color: #99cdff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span5 {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span6 {
+  color: #99cdff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sided-template-has-3-html-pages-index-page-2-and-page-3-this-is-bootstrap-v-4-2-1-layout-you-may-visit-templatemo-page-for-latest-updates-thank-you-span7 {
+  color: rgba(0, 0, 0, 0.5);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.forty-image-31-1 {
+  width: 1054px;
+  height: 542px;
+  position: absolute;
+  left: calc(50% - 527px);
+  top: 238px;
+  object-fit: cover;
+}
+.line-1 {
+  width: 465px;
+  height: 0px;
+  position: absolute;
+  left: 782px;
+  top: 894.45px;
+  transform: translate(-0.5px, -0.5px);
+  overflow: visible;
+}
+._6-a-9-d-7-e-53-c-465682-f-4-f-839482-b-2-bf-5-dc-5-1 {
+  width: 150px;
+  height: 164.67px;
+  position: absolute;
+  left: 285px;
+  top: 872px;
+  object-fit: cover;
+}
+.forty-image-32-1 {
+  width: 1084px;
+  height: 542px;
+  position: absolute;
+  left: calc(50% - 542px);
+  top: 1173px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 423px;
+  height: 542px;
+  position: absolute;
+  left: 720px;
+  top: 1173px;
+}
+.nulla-a-eros-at-diam {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 769px;
+  top: 1202px;
+  width: 233px;
+  height: 23px;
+}
+.quisque-pharetra-mauris-in-libero-varius-tristique-etiam-tristique-pellentesque-metus-at-consequat-fusce-a-porttitor-this-is-50-alpha-background {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 124.82%;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: absolute;
+  left: 769px;
+  top: 1281px;
+  width: 325px;
+  height: 110px;
+}
+.phasellus-nec-faucibus-erat-vitae-sagittis-arcu-quisque-viverra-dui-purus-at-rutrum-nibh-suscipit-ut {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 124.82%;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: absolute;
+  left: 770px;
+  top: 1441px;
+  width: 317px;
+  height: 69px;
+}
+.line-2 {
+  width: 336.02px;
+  height: 0px;
+  position: absolute;
+  left: 768.99px;
+  top: 1250.38px;
+  overflow: visible;
+}
+.line-3 {
+  width: 558.01px;
+  height: 0px;
+  position: absolute;
+  left: 162px;
+  top: 2172.59px;
+  overflow: visible;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.morbi-a-gravida-turpis {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 238px;
+  top: 1831px;
+  width: 313.48px;
+  height: 23px;
+}
+.quisque-pharetra-mauris-in-libero-varius-tristique-etiam-tristique-pellentesque-metus-at-consequat-fusce-a-porttitor-this-is-50-alpha-background2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 124.82%;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: absolute;
+  left: 238px;
+  top: 1915px;
+  width: 383.02px;
+  height: 110px;
+}
+.line-32 {
+  width: 396px;
+  height: 0px;
+  position: absolute;
+  left: 238px;
+  top: 1884.38px;
+  overflow: visible;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.group-4 {
+  width: 180px;
+  height: 50px;
+  position: static;
+}
+.quisque-pharetra {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 910px;
+  top: 1975px;
+}
+.etiam-tristique-metus {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 933px;
+  top: 2010px;
+}
+.trusted-source-1 {
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 930px;
+  top: 1805px;
+  overflow: hidden;
+}
+.capa-7 {
+  width: 69.33%;
+  height: 91.33%;
+  position: absolute;
+  right: 15.33%;
+  left: 15.33%;
+  bottom: 4.33%;
+  top: 4.33%;
+  overflow: visible;
+}
+.quisque-pharetra2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 11.43%;
+  width: 88.57%;
+  bottom: -11.43%;
+  top: 100%;
+  height: 11.43%;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 942px;
+  top: 1934px;
+  width: 128px;
+  height: 21px;
+}
+.rectangle-6 {
+  background: rgba(255, 255, 255, 0.4);
+  width: 542px;
+  height: 502px;
+  position: absolute;
+  left: 178px;
+  top: 2204px;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.group-9 {
+  width: 309px;
+  height: 70px;
+  position: static;
+}
+.ellipse-1 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 251px;
+  top: 2287px;
+}
+.group-6 {
+  width: 70px;
+  height: 70px;
+  position: static;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 251px;
+  top: 2287px;
+}
+.call-24-dp-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 266px;
+  top: 2302px;
+  overflow: visible;
+}
+._010-020-0340 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 371px;
+  top: 2304px;
+  width: 189px;
+  height: 37px;
+}
+.group-11 {
+  width: 455px;
+  height: 70px;
+  position: static;
+}
+.group-8 {
+  width: 70px;
+  height: 70px;
+  position: static;
+}
+.ellipse-4 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 251px;
+  top: 2553px;
+}
+.location-on-24-dp-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 266px;
+  top: 2568px;
+  overflow: visible;
+}
+._6120-suspendisse-ultricies-scelerisque-tellus-id-10260-magna-aliquet-porttitor {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 371px;
+  top: 2560px;
+  width: 335px;
+  height: 56px;
+}
+.group-10 {
+  width: 373px;
+  height: 70px;
+  position: static;
+}
+.group-7 {
+  width: 70px;
+  height: 70px;
+  position: static;
+}
+.ellipse-3 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 251px;
+  top: 2420px;
+}
+.mail-24-dp-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 266px;
+  top: 2435px;
+  overflow: visible;
+}
+.info-company-com {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 371px;
+  top: 2437px;
+  width: 253px;
+  height: 37px;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.line-5 {
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 784px;
+  top: 2365.73px;
+  overflow: visible;
+}
+.email {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 804.01px;
+  top: 2339px;
+  width: 31px;
+  height: 12px;
+}
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.line-6 {
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 784px;
+  top: 2512.73px;
+  overflow: visible;
+}
+.message {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 804.01px;
+  top: 2399px;
+  width: 54px;
+  height: 13px;
+}
+.group-14 {
+  position: absolute;
+  inset: 0;
+}
+.line-4 {
+  width: 320px;
+  height: 0px;
+  position: absolute;
+  left: 784px;
+  top: 2305.5px;
+  overflow: visible;
+}
+.your-name {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 799.01px;
+  top: 2279px;
+  width: 63px;
+  height: 12px;
+}
+.fusce-a-porttitor-augue-phasellus-nec-faucibus-erat-vitae-sagittis-arcu-quisque-viverra-dui-purus-at-rutrum-nibh-suscipit-ut {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 178px;
+  top: 2806px;
+  width: 344px;
+  height: 150px;
+}
+.copyright-2019-company-name-design-template-mo {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 724px;
+  top: 3152px;
+  width: 711px;
+  height: 32px;
+}
+.copyright-2019-company-name-design-template-mo-span {
+  color: #99cdff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+}
+.copyright-2019-company-name-design-template-mo-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+}
+.copyright-2019-company-name-design-template-mo-span3 {
+  color: #00b1ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-duis-cursus-ac-mauris-maximus-auctor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kings-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 178px;
+  top: 2956px;
+  width: 378px;
+  height: 180px;
+}
+.frame {
+  background: #99cdff;
+  width: 9.51%;
+  height: 39px;
+  position: absolute;
+  right: 12.36%;
+  left: 78.12%;
+  top: 1079px;
+}
+.read-more {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 400;
+  position: absolute;
+  text-decoration: none;
+  left: calc(50% - 31.5px);
+  top: 12px;
+  width: 72px;
+}
+.frame2 {
+  background: #ffffff;
+  width: 9.51%;
+  height: 39px;
+  position: absolute;
+  right: 55.97%;
+  left: 34.51%;
+  top: 2075px;
+}
+.read-more2 {
+  color: #99cdff;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 31.5px);
+  top: 12px;
+  width: 72px;
+}
+.frame3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.5px;
+  width: 9.51%;
+  height: 39px;
+  position: absolute;
+  right: 23.33%;
+  left: 67.15%;
+  top: 2613px;
+}
+.send {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 35.5px);
+  top: 12px;
+  width: 72px;
+}
